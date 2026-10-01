@@ -1,0 +1,38 @@
+{
+  "nativeResolution": [
+    640,
+    360
+  ],
+  "integer3xReplication": "all pixels pass",
+  "spritePixelTests": [
+    {
+      "source": "Idle2",
+      "exactOpaquePixels": 3514
+    },
+    {
+      "source": "Walk2",
+      "exactOpaquePixels": 3330
+    }
+  ],
+  "layerChecks": [
+    {
+      "file": "01_BackWall.png",
+      "partialAlpha": 0
+    },
+    {
+      "file": "02_Fixtures.png",
+      "partialAlpha": 0
+    },
+    {
+      "file": "03_PlayableFloor.png",
+      "partialAlpha": 0
+    },
+    {
+      "file": "04_ForegroundEdge.png",
+      "partialAlpha": 0
+    }
+  ],
+  "unityRuntimeTest": "not performed",
+  "backgroundPaletteColors": 32,
+  "protectedFilesUnchanged": 52
+}

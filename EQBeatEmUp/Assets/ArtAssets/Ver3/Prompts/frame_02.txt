@@ -1,0 +1,7 @@
+Use case: identity-preserve.
+Edit target: supplied V3 idle_master.png. This master is the single design authority for this frame.
+Generate ONE extremely subtle idle variation. Keep exact canvas/camera/scale and transparency. BOTH hands stay entirely inside pants pockets throughout; wrists remain anchored inside same pocket entries, no fingers or thumbs appear. Both feet stay planted at EXACT same coordinates. Relaxed balanced three-quarter right-facing stance.
+FACE LOCK: retain master head/face/hair as the same artwork. Do NOT regenerate eyes, brows, nose, mouth, jaw or ear. No expression change, blink, mouth opening, head rotation or change of face proportions. Head can translate with breathing only by the tiny stated offset, no warping. Keep friend's human soft cheek/jaw.
+ART LOCK: exact same blue shirt, every pale motif, buttons, collar and hem; same pants shadows, shoes, ink contours and hatching. No added details, retexturing, reshading or redesign. Preserve original alpha; opaque interior, transparent exterior. No shadow or text.
+Motion must be barely perceptible. Preserve all unchanged pixels if possible. Pixel directions refer to the source canvas, NOT percentages.
+FRAME 02 / INHALE: chest/shoulder line rises only TWO source pixels, head rises only ONE pixel without changing face artwork. Tiny chest expansion; elbows follow by one pixel while wrists stay at pockets. Hip and legs unchanged. It should look almost identical to frame 01.

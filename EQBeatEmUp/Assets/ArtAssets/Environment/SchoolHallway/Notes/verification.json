@@ -1,0 +1,40 @@
+{
+  "resolution": [
+    640,
+    360
+  ],
+  "paletteColors": 32,
+  "nonOpaqueBackgroundPixels": 0,
+  "grid": "native integer 1px; no downsampling",
+  "recommendedPPU": 100,
+  "walkableFootRegion": [
+    32,
+    258,
+    608,
+    338
+  ],
+  "previewTests": [
+    {
+      "animation": "Idle2",
+      "positionTopLeft": [
+        246,
+        181
+      ],
+      "mismatches": 0,
+      "footBaselineInclusive": 300,
+      "opaqueSourcePixels": 3514,
+      "scale": 1
+    },
+    {
+      "animation": "Walk2",
+      "positionTopLeft": [
+        246,
+        181
+      ],
+      "mismatches": 0,
+      "footBaselineInclusive": 300,
+      "opaqueSourcePixels": 3330,
+      "scale": 1
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "status": "AI concept; common scale/padding only; manual temporal cleanup pending",
+  "cellWidth": 512,
+  "cellHeight": 512,
+  "columns": 4,
+  "rows": 1,
+  "order": [
+    "idle_01",
+    "idle_02",
+    "idle_03",
+    "idle_04"
+  ],
+  "durationMsPerFrame": 250,
+  "loopDurationMs": 1000,
+  "pivotPixelsFromTopLeft": [
+    256,
+    476
+  ],
+  "pivotNormalizedFromBottomLeft": [
+    0.5,
+    0.0703125
+  ],
+  "rects": [
+    [
+      0,
+      0,
+      512,
+      512
+    ],
+    [
+      512,
+      0,
+      512,
+      512
+    ],
+    [
+      1024,
+      0,
+      512,
+      512
+    ],
+    [
+      1536,
+      0,
+      512,
+      512
+    ]
+  ],
+  "frames": [
+    {
+      "frame": "idle_01",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "exportSize": [
+        512,
+        512
+      ],
+      "boundsAlphaAbove8": [
+        174,
+        37,
+        338,
+        475
+      ],
+      "transparentPixels": 222218,
+      "opaquePixels": 1351,
+      "partialAlphaPixels": 38575
+    },
+    {
+      "frame": "idle_02",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "exportSize": [
+        512,
+        512
+      ],
+      "boundsAlphaAbove8": [
+        174,
+        36,
+        338,
+        475
+      ],
+      "transparentPixels": 221988,
+      "opaquePixels": 1402,
+      "partialAlphaPixels": 38754
+    },
+    {
+      "frame": "idle_03",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "exportSize": [
+        512,
+        512
+      ],
+      "boundsAlphaAbove8": [
+        174,
+        43,
+        338,
+        475
+      ],
+      "transparentPixels": 223027,
+      "opaquePixels": 1357,
+      "partialAlphaPixels": 37760
+    },
+    {
+      "frame": "idle_04",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "exportSize": [
+        512,
+        512
+      ],
+      "boundsAlphaAbove8": [
+        174,
+        38,
+        338,
+        475
+      ],
+      "transparentPixels": 222618,
+      "opaquePixels": 1375,
+      "partialAlphaPixels": 38151
+    }
+  ]
+}

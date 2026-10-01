@@ -1,0 +1,191 @@
+Create a pixel-art gameplay scene sample for my beat ’em up game.
+
+Before creating anything, inspect these existing character assets:
+
+Assets/ArtAssets/Character/BlueKeyShirt/Idle2
+Assets/ArtAssets/Character/BlueKeyShirt/Walk2
+
+If the actual folder capitalization/naming differs, locate the existing Idle2 and Walk2 assets in the project rather than creating replacements.
+
+IMPORTANT:
+Do NOT redesign, regenerate, repaint, or modify the BlueKeyShirt character.
+
+The existing Idle2 and Walk2 sprites are the visual anchor for this task.
+
+The goal is to create a school hallway environment where these exact sprites can stand and walk without looking visually out of place.
+
+REFERENCE:
+Use the attached pixel-art school hallway image as the environment/composition reference.
+
+The environment should resemble:
+- a Thai/Japanese-style high-school corridor
+- side-view beat ’em up perspective
+- wide horizontal playable area
+- classrooms along the back wall
+- lockers
+- bulletin boards/posters
+- trophy cabinet
+- fluorescent ceiling lights
+- tiled floor
+- warm sunset light coming through windows
+- slightly worn/gritty school atmosphere
+- no NPCs or enemies
+
+PIXEL ART REQUIREMENTS:
+
+The final environment MUST be genuine pixel-art-style game artwork.
+
+Before drawing the environment, analyze the existing Idle2 and Walk2 sprites for:
+
+- apparent pixel size
+- character height
+- sprite resolution
+- pixel density
+- outline thickness
+- palette saturation
+- amount of shading
+- contrast
+- level of detail
+- perspective
+- ground contact point
+
+Then match the school hallway artwork to those sprites.
+
+Do NOT create a highly detailed HD background and simply apply a pixelation filter afterward.
+
+The environment should be designed from the beginning with:
+- deliberate pixel clusters
+- hard pixel edges
+- limited shading steps
+- no anti-aliasing
+- no smooth painterly gradients
+- controlled texture
+- readable silhouettes
+- consistent pixel density
+
+GAMEPLAY COMPOSITION:
+
+Design this as an actual playable beat ’em up screen, not an illustration.
+
+Camera:
+- side-view / 2.5D beat ’em up camera
+- similar framing to classic arcade beat ’em ups
+- horizontal stage extending left and right
+- mostly straight-on view of the back wall
+- slight view of the floor to show movement depth
+
+Create a clear playable floor area.
+
+The player should be able to move:
+- left/right
+- slightly toward and away from the camera
+
+Keep the lower-middle portion of the screen relatively uncluttered so characters remain readable.
+
+BACKGROUND DEPTH:
+
+Organize the environment into visual layers:
+
+1. Back wall / windows / classrooms
+2. Lockers, doors, posters and trophy cabinet
+3. Playable floor
+4. Optional foreground edge details
+
+Do not place large foreground objects where they would cover the player.
+
+CHARACTER INTEGRATION TEST:
+
+Create at least one gameplay mockup using an actual frame from:
+
+Idle2
+
+Place the existing character sprite into the hallway at correct gameplay scale.
+
+Do NOT redraw the character for the mockup.
+
+The mockup should demonstrate:
+- correct scale
+- correct floor position
+- correct perspective
+- matching pixel density
+- compatible palette and contrast
+- character clearly separated from background
+
+If useful, also create a second preview using one frame from Walk2.
+
+The character should look like he belongs naturally in this environment rather than looking pasted over a background.
+
+COLOR / LIGHTING:
+
+The hallway can use the sunset atmosphere from the reference:
+- warm orange sunset
+- muted blue-green lockers
+- dark neutral shadows
+- warm fluorescent lights
+
+However, keep contrast behind the playable character under control.
+
+Do not make the floor reflections more detailed than the character.
+
+The character must remain the visual priority.
+
+OUTPUT:
+
+Create the assets under:
+
+Assets/ArtAssets/Environment/SchoolHallway/
+
+Suggested structure:
+
+SchoolHallway/
+    Reference/
+    Background/
+    Preview/
+    Notes/
+
+Create:
+
+Background/
+    SchoolHallway_BG.png
+
+Preview/
+    SchoolHallway_GameplayPreview.png
+    SchoolHallway_Idle2Preview.png
+
+Optional:
+    SchoolHallway_Walk2Preview.png
+
+Notes/
+    README.md
+
+The README should document:
+
+- source/reference images used
+- target resolution
+- character sprite dimensions
+- approximate character height on screen
+- pixel density used for the background
+- intended floor/walkable region
+- recommended Unity Pixels Per Unit
+- recommendations for importing the artwork without filtering
+
+IMPORTANT UNITY SETTINGS:
+
+The output is intended for Unity.
+
+The final PNGs should:
+- use nearest-neighbor pixel rendering
+- have no unwanted anti-aliasing
+- avoid JPEG compression
+- retain crisp pixel edges
+
+Also document recommended Unity texture import settings:
+- Filter Mode: Point
+- Compression: None
+- appropriate Pixels Per Unit based on the existing character assets
+
+Do not modify existing character files.
+
+The success condition is simple:
+
+When an existing Idle2 sprite is placed into the generated school hallway at gameplay scale, it should immediately look like both assets came from the same game.
