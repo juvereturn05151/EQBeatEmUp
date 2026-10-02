@@ -1,0 +1,240 @@
+[
+  {
+    "animation": "Idle",
+    "frame": 1,
+    "colors": 39,
+    "opaquePixels": 3287,
+    "bottom": 119
+  },
+  {
+    "animation": "Idle",
+    "frame": 2,
+    "colors": 40,
+    "opaquePixels": 3330,
+    "bottom": 119
+  },
+  {
+    "animation": "Idle",
+    "frame": 3,
+    "colors": 40,
+    "opaquePixels": 3266,
+    "bottom": 119
+  },
+  {
+    "animation": "Idle",
+    "frame": 4,
+    "colors": 41,
+    "opaquePixels": 3197,
+    "bottom": 119
+  },
+  {
+    "animation": "Idle",
+    "frame": 5,
+    "colors": 42,
+    "opaquePixels": 3269,
+    "bottom": 119
+  },
+  {
+    "animation": "Idle",
+    "frame": 6,
+    "colors": 40,
+    "opaquePixels": 3325,
+    "bottom": 119
+  },
+  {
+    "animation": "Idle",
+    "frame": 7,
+    "colors": 42,
+    "opaquePixels": 3268,
+    "bottom": 119
+  },
+  {
+    "animation": "Idle",
+    "frame": 8,
+    "colors": 43,
+    "opaquePixels": 3240,
+    "bottom": 119
+  },
+  {
+    "animation": "Walk",
+    "frame": 1,
+    "colors": 42,
+    "opaquePixels": 3597,
+    "bottom": 119
+  },
+  {
+    "animation": "Walk",
+    "frame": 2,
+    "colors": 41,
+    "opaquePixels": 3199,
+    "bottom": 119
+  },
+  {
+    "animation": "Walk",
+    "frame": 3,
+    "colors": 41,
+    "opaquePixels": 2975,
+    "bottom": 119
+  },
+  {
+    "animation": "Walk",
+    "frame": 4,
+    "colors": 46,
+    "opaquePixels": 3370,
+    "bottom": 119
+  },
+  {
+    "animation": "Walk",
+    "frame": 5,
+    "colors": 42,
+    "opaquePixels": 3772,
+    "bottom": 119
+  },
+  {
+    "animation": "Walk",
+    "frame": 6,
+    "colors": 42,
+    "opaquePixels": 3333,
+    "bottom": 119
+  },
+  {
+    "animation": "Walk",
+    "frame": 7,
+    "colors": 42,
+    "opaquePixels": 3253,
+    "bottom": 119
+  },
+  {
+    "animation": "Walk",
+    "frame": 8,
+    "colors": 43,
+    "opaquePixels": 3537,
+    "bottom": 119
+  },
+  {
+    "animation": "Attack1",
+    "frame": 1,
+    "colors": 40,
+    "opaquePixels": 3905,
+    "bottom": 119
+  },
+  {
+    "animation": "Attack1",
+    "frame": 2,
+    "colors": 41,
+    "opaquePixels": 4098,
+    "bottom": 119
+  },
+  {
+    "animation": "Attack1",
+    "frame": 3,
+    "colors": 41,
+    "opaquePixels": 4007,
+    "bottom": 119
+  },
+  {
+    "animation": "Attack1",
+    "frame": 4,
+    "colors": 40,
+    "opaquePixels": 3814,
+    "bottom": 119
+  },
+  {
+    "animation": "Attack1",
+    "frame": 5,
+    "colors": 41,
+    "opaquePixels": 4191,
+    "bottom": 119
+  },
+  {
+    "animation": "Attack1",
+    "frame": 6,
+    "colors": 42,
+    "opaquePixels": 3913,
+    "bottom": 119
+  },
+  {
+    "animation": "Attack1",
+    "frame": 7,
+    "colors": 40,
+    "opaquePixels": 3877,
+    "bottom": 119
+  },
+  {
+    "animation": "Attack1",
+    "frame": 8,
+    "colors": 40,
+    "opaquePixels": 3784,
+    "bottom": 119
+  },
+  {
+    "animation": "Hurt",
+    "frame": 1,
+    "colors": 41,
+    "opaquePixels": 3955,
+    "bottom": 119
+  },
+  {
+    "animation": "Hurt",
+    "frame": 2,
+    "colors": 40,
+    "opaquePixels": 3614,
+    "bottom": 119
+  },
+  {
+    "animation": "Hurt",
+    "frame": 3,
+    "colors": 40,
+    "opaquePixels": 3307,
+    "bottom": 119
+  },
+  {
+    "animation": "Hurt",
+    "frame": 4,
+    "colors": 39,
+    "opaquePixels": 3689,
+    "bottom": 119
+  },
+  {
+    "animation": "Knockdown",
+    "frame": 1,
+    "colors": 44,
+    "opaquePixels": 3911,
+    "bottom": 119
+  },
+  {
+    "animation": "Knockdown",
+    "frame": 2,
+    "colors": 40,
+    "opaquePixels": 3820,
+    "bottom": 119
+  },
+  {
+    "animation": "Knockdown",
+    "frame": 3,
+    "colors": 41,
+    "opaquePixels": 4228,
+    "bottom": 109
+  },
+  {
+    "animation": "Knockdown",
+    "frame": 4,
+    "colors": 39,
+    "opaquePixels": 2580,
+    "bottom": 119
+  },
+  {
+    "animation": "Knockdown",
+    "frame": 5,
+    "colors": 39,
+    "opaquePixels": 2532,
+    "bottom": 119
+  },
+  {
+    "animation": "Knockdown",
+    "frame": 6,
+    "colors": 38,
+    "opaquePixels": 2104,
+    "bottom": 119
+  }
+]
