@@ -1,0 +1,210 @@
+[
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_01.controller",
+    "Hash": "EB3C6E209B96B8D13FE3377C94320959782826A84BE481929EE9FFF5E5AC5ACC"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_01.controller.meta",
+    "Hash": "F9847352AA3BF653552E57EB03FDF5B4298FC44D4E59B1717F7B276980D17D85"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_01.png",
+    "Hash": "FA3008C1865324B7B745CCEE2408D0BB78D7A94E0BE520378EC47C6F8E051539"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_01.png.meta",
+    "Hash": "BB69866E668D890631139C04D7C985B74B1ECF95FE41AA07CD48ABC45EE3FE7B"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_02.png",
+    "Hash": "6E9538C565838064D03B4682CDF2246B7705C16165CAB7DA46F361E3239FCAE9"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_02.png.meta",
+    "Hash": "DB22E90A98A9ED0CE5676314F3B498FEA3B1F27C1E2A0AA17500E4B766A66A4B"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_03.png",
+    "Hash": "CD1BF040548F150404431997E315F49AD5E2A12531A23AEF0C0536D0D09FBF2E"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_03.png.meta",
+    "Hash": "8DC3A54056AFFC9A15808AF498BE9D21112593E6D2F67CCEAA3188B1F7A0B81A"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_04.png",
+    "Hash": "1E03AB7144C4A2E54CA5DEC8EB3C3BDCAAEC48659499A8DB8D27FB9D6157B2CC"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_04.png.meta",
+    "Hash": "A7896E91ACE4329ACDDE7E7EDC290BEEF794BB408FB2463B2757D732E209DD20"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_05.png",
+    "Hash": "18CA6C09E5A90C344ED4B57B7B7B9A8266D3A7CC05C300AD5F772F405DD08EB3"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_05.png.meta",
+    "Hash": "2A40CA4B1E5E6610E4FAB3645544463ADB883D8E2C73F9F656B00A62E7658A25"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_06.png",
+    "Hash": "1FF02F32DEC6E50C0B2D609C870C4E034337AD360DF1E10D99B3F1CED28D19B7"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_06.png.meta",
+    "Hash": "231E1C87D3A0A29E2E6FB041A9F73E4E1ACF484601D46193A9A4DF3F9670F5B8"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_07.png",
+    "Hash": "C6FA08015EFEA34B0296C0B843E1A8952AB33CF3D623F93609B728CBB10DE97C"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_07.png.meta",
+    "Hash": "6F4D68F65BEEBA6CBD31DF4B4A122ABA1F1BD030D8C9F0D3D100B514D376B25E"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_08.png",
+    "Hash": "599A46C4F40C2FAF615258CA0FFA2751D36B411B2AE0D9809B2D07700B59EB2E"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_08.png.meta",
+    "Hash": "EF3E12B8844C2A0DDE7049DB12C34F1885EC935607473F005566F7645FD1E8D2"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_Preview.gif",
+    "Hash": "E436BB93A719F8513F47208272D0E8F110ACA8DCA424CFF2C082014B6A70FD97"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_Preview.gif.meta",
+    "Hash": "9C056E489294D047D7DC6E0A6429F25D761EEDE20F07F7077B5F53617225845A"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_Sheet.png",
+    "Hash": "6B15D5721668000188B0429D1CF8BC184C8636E9A19E4677C90F4468C2E78DB0"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2_Sheet.png.meta",
+    "Hash": "8C1B8751AD6592F766D9328AD6D1300C81F6CD444B738A6A8FB5448567DD7C31"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2.aseprite",
+    "Hash": "11C49AC5235861521BAE2A2EB14703D505A6CAD86C72866DCCB549958EB95201"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\BlueShirtGuy_Idle2.aseprite.meta",
+    "Hash": "E2931CA1DC2315B91391818F90C725B928CC849815CE83B6D16424081F16160E"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\vvfdvfd.anim",
+    "Hash": "D0CC8F626078693A097EF20BD79E57523DFD1D356FB6FF02DF851B47CF05FD27"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Idle2\\vvfdvfd.anim.meta",
+    "Hash": "3AB61C21D7BCA827F1A004F4E7E35BD1B4B27B57B0756839F829EF34F0DA3456"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_01.controller",
+    "Hash": "58AEB58AE01BB5DFBB9CA0996FB639E0C099B7A165D3AEFB8ABD8270D877DE6E"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_01.controller.meta",
+    "Hash": "ACC09F315BA37CE0A86FEC9771B0E8D3E1C9320DD3004DB90582DA02D8BC36A1"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_01.png",
+    "Hash": "17AD5B3A5DB7430A9CBEB6CC831321E54B68A663C0B1FAA26457E358F1D95E4C"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_01.png.meta",
+    "Hash": "12A362B95D57DD1BEB90D89E6E2C1769204C031A19322FA85E225A5FAF2194CA"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_02.png",
+    "Hash": "4167737C4F30875DF92C8B1447756DFE8F1904C5ADD49F2FD44C791644B14B19"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_02.png.meta",
+    "Hash": "3739FD5B006073C95BE456B174B134F4212615705A13BA6664D79BAA4C8B0C4D"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_03.png",
+    "Hash": "42BA792442DDDF6D759AE3BACEE5A4C345639C2D7390131E101E8A637C800C23"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_03.png.meta",
+    "Hash": "52AE080259EA6282E25B3E8DCC60BF1DC39785D4A730707434CEC1BF17313B83"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_04.png",
+    "Hash": "DCBBD7D611B3667EDC3571CD0505B731C56E121A28E641C53F69020087A68CBE"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_04.png.meta",
+    "Hash": "173302D8B307B388C31098148B092C24F8D607089D574BBDBEB52B8C3A794156"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_05.png",
+    "Hash": "167359DC2FF1B1A154ABB21CA9793366E1D7C6F1CF0E498AC8E3CEAFBB37CD15"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_05.png.meta",
+    "Hash": "0272C6B83D2DF1245B6407DDFB41E7F04526CB95E4CBE26D458D2B80CC08C380"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_06.png",
+    "Hash": "11B62B275A3E0DACF64D0FC6F288403FE579EB5CA9FD3A732196AA168B99123F"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_06.png.meta",
+    "Hash": "3264D1BCE4FD8C8E24016F14870A0E58B77EAEBA2C331E6A5B76864C0B54A89C"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_07.png",
+    "Hash": "D03B29140371982EAC2CEA349B7A8ADE4B49109E9663DFBEED052EED50AE4B86"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_07.png.meta",
+    "Hash": "33B175C2CCC08EB4E409C63022F9DBC6B78525F9C30E1D2EA560CE73DD8E10DC"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_08.png",
+    "Hash": "D828B9506294145648008641937C69203653A5E57689D254821EB679EF20A34E"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_08.png.meta",
+    "Hash": "4A84876CEFB85845D6052DDD7EA3ED54DFF68029C965022DFB1AAC0F12CA0F4A"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_Preview.gif",
+    "Hash": "35F4F2C532DB980C7119DD4B0FD04412CF56F1B1B22AFE9FADC4EDD9692FFA7C"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_Preview.gif.meta",
+    "Hash": "C1FDC6FF1812DBEA3DE3DA40BB21940CB0C65C0CEA03DB8F40D82F2BB3454041"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_Sheet.png",
+    "Hash": "FE1FA77A94BB1D026E2F93519F2C7655AFACD3EF100A31399997AD589F72151F"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2_Sheet.png.meta",
+    "Hash": "9AD42CAF59990B8C0A0F55B71E2EBC6CE01EE04A16FDC7BA49F9FC9EA4BD100C"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2.aseprite",
+    "Hash": "9886EC36243B4859095BB17F727DE2CD1984FB0F7B3C5222EB216A051DB47CD3"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\BlueShirtGuy_Walk2.aseprite.meta",
+    "Hash": "AD3F8919B78BE8C9F1FE0F70564FA6AE6EDDBD8BB0F278941A83E0743D0ABC75"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\vfdvfd.anim",
+    "Hash": "C63A0395250036EA26C57D9C5966E3A29400F4D24922197193514DC323DCCB8A"
+  },
+  {
+    "Path": "E:\\EQBeatEmUp\\EQBeatEmUp\\Assets\\ArtAssets\\Characters\\BlueShirtGuy\\Animations\\Walk2\\vfdvfd.anim.meta",
+    "Hash": "DEF936DC1E4FCD5751D000C55301297E55F5B7E0C9853FBD208EAA43AF26F9FA"
+  }
+]

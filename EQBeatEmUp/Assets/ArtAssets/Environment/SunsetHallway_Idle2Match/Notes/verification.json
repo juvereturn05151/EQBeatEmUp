@@ -1,0 +1,23 @@
+{
+  "backdropSize": [
+    1672,
+    941
+  ],
+  "actualBackdropColorCount": 291304,
+  "sourceSpriteSize": [
+    128,
+    128
+  ],
+  "sourceOpaquePixels": 3514,
+  "spriteScale": 2,
+  "spriteTopLeft": [
+    700,
+    500
+  ],
+  "visibleCharacterHeight": 216,
+  "lowestSolePixel": 739,
+  "exactSpritePixelMismatches": 0,
+  "originalCharacterFilesUnchanged": 52,
+  "recommendedBackdropPPU": 200,
+  "originalCharacterPPU": 100
+}
